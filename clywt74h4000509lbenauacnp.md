@@ -10,8 +10,6 @@ tags: javascript, babel, typescript, web-components, compiler, babel-plugin, cla
 
 ---
 
-Certainly! I'll keep the original code sample and add references to the GitHub repository for the full code implementation. Here's the revised version:
-
 # Mastering JavaScript/TypeScript Transpilation with Babel AST: From Functions to Classes
 
 In the ever-evolving world of web development, keeping your codebase up-to-date with the latest patterns and practices is crucial. One common migration path is transitioning from function-based components to class-based components. This blog post will dive deep into using Babel's Abstract Syntax Tree (AST) to automate this process, focusing on transforming JavaScript functions containing JSX into ES6 classes.
